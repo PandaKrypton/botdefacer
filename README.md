@@ -1,4 +1,4 @@
-# botdefacer
+Termux commands
 
 Apt update && apt upgrade
 
